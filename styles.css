@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin: 60px;
+}
+
+.post {
+    background-color: white;
+    width: 600px;
+    height: 800px;
+}
+
+.post-header {
+    display: flex;
+    width: 600px;
+    height: 120px;
+    }
+
+.icon-html5 {
+    width: 100px;
+    height: 120px;
+}
+
+.fa-brands.fa-html5.fuentegrande{
+    display: flex;
+    flex-wrap: ;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+h1 {margin: 0;}
+.titulo {
+    width: 430px;
+height: 80px;
+margin: 10px;
+display: flex;
+flex-direction: column;
+}
+
+img {
+    width: 100%;
+}
+
+.fuentegrande {
+    font-size: 70px;
+}
+.fa-brands {
+    position: absolute;
+}
+
+.titulo {
+    margin: 0;
+    width: 550px;
+    height: 120px;
+}
